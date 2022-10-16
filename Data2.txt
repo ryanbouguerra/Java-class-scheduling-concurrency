@@ -1,0 +1,11 @@
+Room 1 9:00 11:30 12:30 14:00 15:00 16:30
+Room 2 9:00 11:30 12:30 14:00 15:00 16:30 17:30
+Room 4 10:15 14:15 16:45
+
+Course 1 "Not much to do" 3
+Course 2 "Even less to do" 4
+Course 3 "Lots of work" 2
+Course 4 "Too much work" 1
+Course 5 "Applied law" 1
+Course 6 "Regularity Lemma" 1
+Course 7 "Numerology" 2
