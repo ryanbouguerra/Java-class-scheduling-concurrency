@@ -1,0 +1,23 @@
+Room 1 9:00 11:30 12:30 14:00 15:00 16:30
+Room 2 9:00 11:30 12:30 14:00 15:00 16:30 17:30
+Room 3 8:00 9:30 11:00 12:00 13:30 14:30 16:00 17:00
+Room 4 10:15 14:15 16:45     
+Room 5
+
+Course 1 "Marmelade" 3
+Course 2 "Tea" 4
+Course 3 "Ice Cream" 2
+Course 4 "Bubble Bath" 1
+Course 5 "Beans" 1
+Course 6 "Papaya" 1
+Course 7 "Ice cubes" 2
+Course 8  "Bubble Bath 2" 2
+
+Student 1 3 7  
+Student 1 4 6 7
+Student 2 3 4
+Student 5 6 7
+Student 2 5 6 7
+Student 3 7 8
+
+
